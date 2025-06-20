@@ -1,0 +1,13 @@
+L 06/20/2025 - 20:35:09: SourceMod log file session started (file "/home/server/servers/csco_server/csco/csgo/addons/sourcemod/logs/L20250620.log") (Version "1.13.0.7244")
+L 06/20/2025 - 20:35:09: -------- Mapchange to awp_india_csco --------
+L 06/20/2025 - 20:35:30: Log file closed.
+L 06/20/2025 - 20:36:58: SourceMod log file session started (file "/home/server/servers/csco_server/csco/csgo/addons/sourcemod/logs/L20250620.log") (Version "1.13.0.7244")
+L 06/20/2025 - 20:36:58: -------- Mapchange to awp_india_csco --------
+L 06/20/2025 - 20:37:30: Log file closed.
+L 06/20/2025 - 20:38:47: SourceMod log file session started (file "/home/server/servers/csco_server/csco/csgo/addons/sourcemod/logs/L20250620.log") (Version "1.13.0.7244")
+L 06/20/2025 - 20:38:47: -------- Mapchange to awp_india_csco --------
+L 06/20/2025 - 20:39:24: [mapchooser.smx] Starting map vote because outside request
+L 06/20/2025 - 20:39:24: [mapchooser.smx] Voting for next map has started.
+L 06/20/2025 - 20:39:25: [mapchooser.smx] Voting for next map has finished. Nextmap: de_dust2_csco.
+L 06/20/2025 - 20:39:27: [SM] Changed map to "de_dust2_csco"
+L 06/20/2025 - 20:39:28: -------- Mapchange to de_dust2_csco --------

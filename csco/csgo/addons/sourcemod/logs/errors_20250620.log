@@ -1,0 +1,5 @@
+L 06/20/2025 - 20:36:50: SourceMod error session started
+L 06/20/2025 - 20:36:50: Info (map "awp_india_csco") (file "/home/server/servers/csco_server/csco/csgo/addons/sourcemod/logs/errors_20250620.log")
+L 06/20/2025 - 20:36:50: [SM] Unable to load plugin "nominations.smx": Could not find required plugin "mapchooser"
+L 06/20/2025 - 20:36:50: [SM] Unable to load plugin "rockthevote.smx": Could not find required plugin "mapchooser"
+L 06/20/2025 - 20:36:58: Error log file session closed.
