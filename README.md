@@ -21,8 +21,7 @@ All binaries are untouched upstream builds. The repo is just a drop-in overlay t
 
 ## Quick start
 
-1. **Install the base Classic Offensive server** by following the tutorial:  
-   <https://lukestephens.co.za/writing/how-to-host-a-dedicated-classic-offensive-server/20bf90ec476b806c9e76ce2c156e128c>
+1. **Install the base Classic Offensive server** by following the [tutorial](https://lukestephens.co.za/writing/how-to-host-a-dedicated-classic-offensive-server/20bf90ec476b806c9e76ce2c156e128c).
 2. **Overlay this fix-pack** into the server folder (replace `~/servers/csco_server` with your own path):
    ```bash
    cd ~/servers/csco_server
